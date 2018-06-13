@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: CourseApiData
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: shami
+Implementation-Vendor-Id: com.springDemo
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/CourseApiData
+Created-By: Maven Integration for Eclipse
+
